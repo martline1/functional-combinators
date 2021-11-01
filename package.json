@@ -1,0 +1,10 @@
+{
+  "name": "functional-combinators",
+  "version": "1.0.0",
+  "description": "A set of functional combinators to work with, in JavaScript",
+  "main": "index.js",
+  "repository": "git@github.com:martline1/functional-combinators.git",
+  "author": "martline1 <yael.alcalla@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
